@@ -1,7 +1,6 @@
-
-
 document.addEventListener("DOMContentLoaded", function() {
-var chatButton = document.createElement('div');
+    console.log("Adding test console log")
+    var chatButton = document.createElement('div');
 chatButton.style.position = 'fixed';
 chatButton.style.bottom = '20px';
 chatButton.style.right = '20px';
